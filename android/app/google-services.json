@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "101435210373",
+    "firebase_url": "https://chargingtime-3767b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chargingtime-3767b",
+    "storage_bucket": "chargingtime-3767b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101435210373:android:cc04efc7fe7d21509f07ec",
+        "android_client_info": {
+          "package_name": "com.example.chargingtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101435210373-nb6h9kt2oje7clt7of6s32cfe0iiaa99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG0TnBd4xkXW-EPVfHO0xdzBnqlSkfQ4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101435210373-nb6h9kt2oje7clt7of6s32cfe0iiaa99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
