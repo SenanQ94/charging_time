@@ -2,6 +2,10 @@
 
 A **Flutter** app that enhances navigation by integrating **Google Maps** with **background services** and **push notifications**. This app helps users find and select **gas stations**, **restaurants**, **playgrounds**, and other points of interest along their route, ensuring a seamless and convenient travel experience.
 
+## App Demo
+
+https://github.com/user-attachments/assets/8d9a0919-5d1a-4c72-848e-61efbffd6e36
+
 ## Key Features
 
 ### 🗺️ Google Maps Integration
